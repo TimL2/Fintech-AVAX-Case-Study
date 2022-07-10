@@ -26,18 +26,18 @@ As of this writing the crypto market is in a major correction, but there are rea
 
 ![](Crypto_Market_Cap.PNG)
 
-[1] - Coin Market Cap Global Cryptocurrency Charts
+[1] - *Coin Market Cap Global Cryptocurrency Charts*
 
 
 <img src="Crypto%20Users.PNG" width="500" height="500" />
 
-[2] - Coin Telegraph US Cryptocurrency Owners 2019 - 2023 prediction
+[2] - *Coin Telegraph US Cryptocurrency Owners 2019 - 2023 prediction*
 
 ## Results
 
 There is no doubt that Avalanch is at least partially responsible for some changes in the blockchain space, for instance Ethereums adoption of proof of stake rolling out soon. However there is still a lot that needs to play out in this space to even determine results, but Avalanche is making sure they are positioned well for the future. One of the major marketing levels Avalanche has is their "Avalanche Rush" program. Avalanche invested $225M into developers and marketing for the chain and crypto users came running, so much so that in an interveiw with forbes founder and CEO of Avalanche Emin stated: 
 
-"So the value we had set aside, the amount in dollar terms, ballooned from $220 million, or whatever that was, to really large numbers, because we went up substantially after the Rush program came into effect. Of the coins we set aside, we've used only a fraction. So we are, I think, maybe 1/3 in of the coins." [3] - Forbes, Emin Gun Sirer, Founder of the AValanche Blockchain, Is Not Sweating a 76% Drop in Token Price)
+"So the value we had set aside, the amount in dollar terms, ballooned from $220 million, or whatever that was, to really large numbers, because we went up substantially after the Rush program came into effect. Of the coins we set aside, we've used only a fraction. So we are, I think, maybe 1/3 in of the coins." [3] - *Forbes, Emin Gun Sirer, Founder of the AValanche Blockchain, Is Not Sweating a 76% Drop in Token Price*
 
 This is very exciting news for investors in the Avalanche Ecosystem because nothing has the drawing power of traffic like free money, and Avalanche has plenty more to give for now, and as of the writing of this paper a NFT Rush Program is underway, and NFTs are quickly becomming reguarded as one of the best avenues to get new consumers into crypto.
 
